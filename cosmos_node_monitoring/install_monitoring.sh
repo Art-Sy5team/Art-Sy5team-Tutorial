@@ -62,6 +62,6 @@ echo "==========================================================================
 echo -e "\e[1m\e[32m5. Downloading Node Monitoring config files ... \e[0m" && sleep 1
 cd $HOME
 rm -rf cosmos_node_monitoring
-git clone URL
+git clone https://github.com/Art-Sy5team/Art-Sy5team-Tutorial/tree/main/cosmos_node_monitoring.git
 
 chmod +x $HOME/cosmos_node_monitoring/add_validator.sh
