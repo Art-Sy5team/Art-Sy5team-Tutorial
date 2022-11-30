@@ -1,9 +1,11 @@
 ## 📗 Tutorial 📗
 | Name Tutorial             | Detail                                                                               | 
 | ----------------- | --------------------------------------------------------------------------------------------|
-|    **B4B WORLD**       |[Tutorial Testnet B4B WORLD](https://art-sy5team.gitbook.io/tutorial-b4b-world-testnet/)      |  
-|    **Inspirest**    |[Tutorial Testnet Inspirest](https://art-sy5team.gitbook.io/inspirest/) |
-|    **access token**| [Tutorial Membuat access token](https://art-sy5team.gitbook.io/access-token-or-github/)            |
+|    **B4B WORLD**   |[Tutorial Testnet B4B WORLD](https://art-sy5team.gitbook.io/tutorial-b4b-world-testnet/)     |  
+|    **Inspirest**   |[Tutorial Testnet Inspirest](https://art-sy5team.gitbook.io/inspirest/)                         |
+|    **access token**|[Tutorial Membuat access token](https://art-sy5team.gitbook.io/access-token-or-github/)         |
+|**Polkadot Chain** |[Tutorial import dan check address](https://art-sy5team.gitbook.io/polkadot-address/)            |
+|**Dolphin**|[Tutorial Testnet Dolphin](https://art-sy5team.gitbook.io/dolphin/)                                       |
 
 ### ---------------------------------------------------------------------------------
 
